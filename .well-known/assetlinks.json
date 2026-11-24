@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.vanguard.admin",
+        "sha256_cert_fingerprints": ["64:EF:3A:5C:8D:AA:69:0F:98:A4:C0:32:1B:A3:91:CB:EA:18:A6:15:E6:25:FF:85:B6:6D:60:46:E6:0C:49:EA"]
+      }
+    }]
